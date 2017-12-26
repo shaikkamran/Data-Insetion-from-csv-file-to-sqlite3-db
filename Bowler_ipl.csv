@@ -1,0 +1,108 @@
+Pos,Bowlers_Name,Mat,Inns,Overs,Runs,Wkts,Bbi,Average,Economy,SR,4w,5w,Bowlers_Team
+1,Bhuvneshwar Kumar,17,17,66.0,490,23,Apr-29,21.3,7.42,17.21,1,0,Sunrisers Hyderabad
+2,Yuzvendra Chahal,13,13,49.1,401,21,Apr-25,19.09,8.15,14.04,1,0,Royal Challengers Bangalore
+3,Shane Watson,16,16,56.3,485,20,Apr-29,24.25,8.58,16.95,1,0,Royal Challengers Bangalore
+4,Dhawal Kulkarni,14,14,49.0,364,18,Apr-14,20.22,7.42,16.33,1,0,Gujarat Lions
+5,Mustafizur Rahman,16,16,61.0,421,17,Mar-16,24.76,6.9,21.52,0,0,Sunrisers Hyderabad
+6,Mitchell McClenaghan,14,14,53.2,436,17,Apr-21,25.64,8.17,18.82,1,0,Mumbai Indians
+7,Dwayne Bravo,15,15,56.0,494,17,Apr-22,29.05,8.82,19.76,1,0,Gujarat Lions
+8,Sandeep Sharma,14,14,50.0,366,15,02-Nov,24.4,7.32,20.0,0,0,Kings XI Punjab
+9,Jasprit Bumrah,14,14,52.0,406,15,Mar-13,27.06,7.8,20.8,0,0,Mumbai Indians
+10,Andre Russell,12,12,36.3,291,15,Apr-20,19.4,7.97,14.6,1,0,Kolkata Knight Riders
+11,Barinder Sran,14,14,49.3,413,14,Mar-28,29.5,8.34,21.21,0,0,Sunrisers Hyderabad
+12,Chris Morris,12,12,44.0,308,13,Feb-30,23.69,7.0,20.3,0,0,Delhi Daredevils
+13,Amit Mishra,14,14,46.0,344,13,04-Nov,26.46,7.47,21.23,1,0,Delhi Daredevils
+14,Axar Patel,14,14,47.5,388,13,Apr-21,29.84,8.11,22.07,1,0,Kings XI Punjab
+15,Mohit Sharma,14,14,48.3,407,13,Mar-23,31.3,8.39,22.38,0,0,Kings XI Punjab
+16,Adam Zampa,5,5,17.0,115,12,Jun-19,9.58,6.76,8.5,0,1,Rising Pune Supergiant
+17,Moises Henriques,17,17,52.0,415,12,Feb-17,34.58,7.98,26.0,0,0,Sunrisers Hyderabad
+18,Sunil Narine,11,11,42.5,304,11,Mar-26,27.63,7.09,23.36,0,0,Kolkata Knight Riders
+19,Sreenath Arvind,9,9,29.1,216,11,Feb-18,19.63,7.4,15.9,0,0,Royal Challengers Bangalore
+20,Ashok Dinda,9,9,30.3,231,11,Mar-20,21.0,7.57,16.63,0,0,Rising Pune Supergiant
+21,Piyush Chawla,12,11,35.2,273,11,Feb-21,24.81,7.72,19.27,0,0,Kolkata Knight Riders
+22,Chris Jordan,9,9,28.0,258,11,04-Nov,23.45,9.21,15.27,1,0,Royal Challengers Bangalore
+23,Ravichandran Ashwin,14,14,44.0,319,10,Apr-34,31.9,7.25,26.4,1,0,Rising Pune Supergiant
+24,Zaheer Khan,12,12,43.4,337,10,Mar-21,33.7,7.71,26.2,0,0,Delhi Daredevils
+25,Morne Morkel,10,10,35.3,297,10,Feb-27,29.7,8.36,21.3,0,0,Kolkata Knight Riders
+26,Umesh Yadav,9,9,26.0,234,10,Mar-28,23.4,9.0,15.6,0,0,Kolkata Knight Riders
+27,Tim Southee,11,11,43.0,329,9,Mar-24,36.55,7.65,28.66,0,0,Mumbai Indians
+28,Ashish Nehra,8,8,26.0,199,9,Mar-15,22.11,7.65,17.33,0,0,Sunrisers Hyderabad
+29,Praveen Kumar,16,16,51.3,401,9,Feb-19,44.55,7.78,34.33,0,0,Gujarat Lions
+30,Harbhajan Singh,14,14,49.0,392,9,Feb-29,43.55,8.0,32.66,0,0,Mumbai Indians
+31,Thisara Perera,12,11,33.1,326,9,Mar-34,36.22,9.82,22.11,0,0,Rising Pune Supergiant
+32,Ravindra Jadeja,15,14,40.1,311,8,Feb-18,38.87,7.74,30.12,0,0,Gujarat Lions
+33,Marcus Stoinis,7,7,23.0,194,8,Apr-15,24.25,8.43,17.25,1,0,Kings XI Punjab
+34,Dwayne Smith,12,8,18.0,153,8,04-Aug,19.12,8.5,13.5,1,0,Gujarat Lions
+35,Carlos Brathwaite,8,8,23.1,189,7,Mar-47,27.0,8.15,19.85,0,0,Delhi Daredevils
+36,Murugan Ashwin,10,10,28.3,241,7,Mar-36,34.42,8.45,24.42,0,0,Rising Pune Supergiant
+37,Kane Richardson,4,4,14.0,136,7,Mar-13,19.42,9.71,12.0,0,0,Royal Challengers Bangalore
+38,Rajat Bhatia,10,10,34.0,244,6,Feb-19,40.66,7.17,34.0,0,0,Rising Pune Supergiant
+39,Krunal Pandya,12,11,31.1,236,6,Feb-15,39.33,7.57,31.16,0,0,Mumbai Indians
+40,Kuldeep Yadav,3,3,12.0,100,6,Mar-35,16.66,8.33,12.0,0,0,Kolkata Knight Riders
+41,Shivil Kaushik,7,7,23.0,192,6,Mar-20,32.0,8.34,23.0,0,0,Gujarat Lions
+42,Iqbal Abdulla,8,8,25.0,213,6,Mar-40,35.5,8.52,25.0,0,0,Royal Challengers Bangalore
+43,Ben Cutting,4,4,11.1,80,5,Feb-20,16.0,7.16,13.4,0,0,Sunrisers Hyderabad
+44,Shakib Al Hasan,10,9,31.0,243,5,Jan-14,48.6,7.83,37.2,0,0,Kolkata Knight Riders
+45,Imran Tahir,4,4,16.0,138,5,Mar-24,27.6,8.62,19.2,0,0,Delhi Daredevils
+46,Pravin Tambe,7,7,16.0,143,5,02-Dec,28.6,8.93,19.2,0,0,Gujarat Lions
+47,Mohammed Shami,8,8,25.1,244,5,Feb-34,48.8,9.69,30.2,0,0,Delhi Daredevils
+48,Mitchell Marsh,3,3,9.0,45,4,Feb-14,11.25,5.0,13.5,0,0,Rising Pune Supergiant
+49,Brad Hogg,5,5,16.0,142,4,Mar-19,35.5,8.87,24.0,0,0,Kolkata Knight Riders
+50,Vinay Kumar,3,3,9.0,64,3,Feb-17,21.33,7.11,18.0,0,0,Mumbai Indians
+51,Deepak Hooda,17,6,13.0,97,3,Feb-16,32.33,7.46,26.0,0,0,Sunrisers Hyderabad
+52,Nathan Coulter-Nile,4,4,15.0,114,3,Feb-25,38.0,7.6,30.0,0,0,Delhi Daredevils
+53,Pradeep Sahu,5,5,17.3,146,3,Feb-18,48.66,8.34,35.0,0,0,Kings XI Punjab
+54,Bipul Sharma,7,6,14.0,121,3,01-Oct,40.33,8.64,28.0,0,0,Sunrisers Hyderabad
+55,Ankit Rajpoot,4,4,11.0,98,3,Jan-14,32.66,8.9,22.0,0,0,Kolkata Knight Riders
+56,Hardik Pandya,11,10,16.4,153,3,01-Jul,51.0,9.18,33.33,0,0,Mumbai Indians
+57,Tabraiz Shamsi,4,4,16.0,147,3,Jan-21,49.0,9.18,32.0,0,0,Royal Challengers Bangalore
+58,RP Singh,4,4,12.0,111,3,Jan-23,37.0,9.25,24.0,0,0,Rising Pune Supergiant
+59,KC Cariappa,5,5,17.0,159,3,Feb-16,53.0,9.35,34.0,0,0,Kings XI Punjab
+60,Ishant Sharma,4,4,15.0,148,3,Feb-36,49.33,9.86,30.0,0,0,Rising Pune Supergiant
+61,Sachin Baby,11,2,1.4,8,2,02-Apr,4.0,4.8,5.0,0,0,Royal Challengers Bangalore
+62,John Hastings,2,2,6.4,37,2,02-Jun,18.5,5.55,20.0,0,0,Kolkata Knight Riders
+63,Chris Gayle,10,4,10.0,63,2,02-Nov,31.5,6.3,30.0,0,0,Royal Challengers Bangalore
+64,Jayant Yadav,5,5,17.0,125,2,Jan-23,62.5,7.35,51.0,0,0,Delhi Daredevils
+65,Scott Boland,2,2,7.0,54,2,Feb-31,27.0,7.71,21.0,0,0,Rising Pune Supergiant
+66,Gurkeerat Mann Singh,7,3,4.0,31,2,Feb-15,15.5,7.75,12.0,0,0,Kings XI Punjab
+67,JP Duminy,10,5,7.0,55,2,01-Apr,27.5,7.85,21.0,0,0,Delhi Daredevils
+68,Jason Holder,4,4,13.0,103,2,Feb-33,51.5,7.92,39.0,0,0,Kolkata Knight Riders
+69,Rishi Dhawan,2,2,7.0,56,2,Jan-21,28.0,8.0,21.0,0,0,Kings XI Punjab
+70,Shahbaz Nadeem,4,4,15.0,127,2,Feb-23,63.5,8.46,45.0,0,0,Delhi Daredevils
+71,Shadab Jakati,6,6,20.0,178,2,Jan-13,89.0,8.9,60.0,0,0,Gujarat Lions
+72,Varun Aaron,8,8,23.4,227,2,Feb-37,113.5,9.59,71.0,0,0,Royal Challengers Bangalore
+73,Mitchell Johnson,3,3,11.0,106,2,Jan-35,53.0,9.63,33.0,0,0,Kings XI Punjab
+74,James Faulkner,7,7,17.0,167,2,Jan-23,83.5,9.82,51.0,0,0,Gujarat Lions
+75,Kyle Abbott,5,5,16.0,177,2,Jan-38,88.5,11.06,48.0,0,0,Kings XI Punjab
+76,Albie Morkel,2,2,5.0,66,2,Feb-36,33.0,13.2,15.0,0,0,Rising Pune Supergiant
+77,Yusuf Pathan,15,4,6.0,33,1,01-Jun,33.0,5.5,36.0,0,0,Kolkata Knight Riders
+78,Ankit Sharma,3,3,11.0,84,1,Jan-27,84.0,7.63,66.0,0,0,Rising Pune Supergiant
+79,Stuart Binny,14,11,17.0,134,1,Jan-17,134.0,7.88,102.0,0,0,Royal Challengers Bangalore
+80,Parveez Rasool,4,4,14.0,129,1,Jan-31,129.0,9.21,84.0,0,0,Royal Challengers Bangalore
+81,Pawan Negi,8,5,9.0,84,1,Jan-19,84.0,9.33,54.0,0,0,Delhi Daredevils
+82,Trent Boult,1,1,4.0,39,1,Jan-39,39.0,9.75,24.0,0,0,Sunrisers Hyderabad
+83,Rajagopal Sathish,4,3,6.0,59,1,Jan-20,59.0,9.83,36.0,0,0,Kolkata Knight Riders
+84,Ashish Reddy,4,2,3.5,39,1,Jan-14,39.0,10.17,23.0,0,0,Sunrisers Hyderabad
+85,Harshal Patel,5,5,14.0,147,1,Jan-46,147.0,10.5,84.0,0,0,Royal Challengers Bangalore
+86,Adam Milne,1,1,4.0,43,1,Jan-43,43.0,10.75,24.0,0,0,Royal Challengers Bangalore
+87,Nitish Rana,4,1,1.0,3,0,0/3,,3.0,,0,0,Mumbai Indians
+88,Shreyas Gopal,1,1,3.0,18,0,0/18,,6.0,,0,0,Mumbai Indians
+89,Kane Williamson,6,1,1.0,7,0,0/7,,7.0,,0,0,Sunrisers Hyderabad
+90,Anureet Singh,2,2,6.0,43,0,0/15,,7.16,,0,0,Kings XI Punjab
+91,Colin Munro,4,2,2.0,15,0,0/7,,7.5,,0,0,Kolkata Knight Riders
+92,Irfan Pathan,4,3,8.0,61,0,0/7,,7.62,,0,0,Rising Pune Supergiant
+93,Murali Vijay,14,1,1.0,8,0,0/8,,8.0,,0,0,Kings XI Punjab
+94,Suresh Raina,15,4,10.0,82,0,0/15,,8.2,,0,0,Gujarat Lions
+95,Deepak Chahar,2,2,5.0,41,0,0/13,,8.2,,0,0,Rising Pune Supergiant
+96,Yuvraj Singh,10,5,6.1,52,0,0/7,,8.43,,0,0,Sunrisers Hyderabad
+97,Dale Steyn,1,1,2.0,17,0,0/17,,8.5,,0,0,Gujarat Lions
+98,Glenn Maxwell,11,7,9.0,80,0,0/3,,8.88,,0,0,Kings XI Punjab
+99,Swapnil Singh,1,1,3.0,29,0,0/29,,9.66,,0,0,Kings XI Punjab
+100,Karn Sharma,5,5,16.2,171,0,0/24,,10.46,,0,0,Sunrisers Hyderabad
+101,Sarabjit Ladda,1,1,2.0,21,0,0/21,,10.5,,0,0,Gujarat Lions
+102,Pradeep Sangwan,2,2,4.0,49,0,0/21,,12.25,,0,0,Gujarat Lions
+103,David Wiese,1,1,4.0,49,0,0/49,,12.25,,0,0,Royal Challengers Bangalore
+104,Virat Kohli,16,1,1.0,13,0,0/13,,13.0,,0,0,Royal Challengers Bangalore
+105,Kieron Pollard,13,4,6.0,81,0,0/11,,13.5,,0,0,Mumbai Indians
+106,Jagadeesha Suchith,1,1,2.0,31,0,0/31,,15.5,,0,0,Mumbai Indians
+107,Jaydev Unadkat,1,1,3.0,49,0,0/49,,16.33,,0,0,Kolkata Knight Riders
